@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="screen_one">PANTALLA 1</string>
+    <string name="screen_two">PANTALLA 2</string>
+    <string name="text_nombre">Put your name</string>
+    <string name="text_carro">Put brand car</string>
+</resources>

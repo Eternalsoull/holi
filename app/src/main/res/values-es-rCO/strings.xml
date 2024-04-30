@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="screen_one">Pantalla 1</string>
+    <string name="screen_two">Pantalla 2</string>
+    <string name="text_nombre">Nombre</string>
+    <string name="text_carro">Carro</string>
+</resources>
